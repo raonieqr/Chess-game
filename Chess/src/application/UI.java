@@ -16,8 +16,9 @@ public class UI
             }
             System.out.println(" │");
         }
-        System.out.println("└───┴──────────────────┘");
-        System.out.println("      a b c d e f g h");
+        System.out.println("│───┴──────────────────│");
+        System.out.println("│     a b c d e f g h  │");
+        System.out.println("└──────────────────────┘");
     }
 
     private static void printPice(ChessPiece piece)
