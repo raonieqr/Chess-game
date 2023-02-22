@@ -1,5 +1,5 @@
 # Chess Game
-
+![alt text](img/image.png)
 This is a Java chess game that can be run in the terminal. It is designed for two players and follows the rules of classic chess. The game includes a command line interface and can be easily compiled and run using the provided Makefile.
 
 ## System Requirements:
